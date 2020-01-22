@@ -27,4 +27,7 @@ if __name__ == "__main__" :
     assert(straight([6,5,5,3,2])== False)
 
 
+    //under construction
+
+
 
