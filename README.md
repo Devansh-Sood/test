@@ -1,2 +1,2 @@
 # test
-test repo for git command demonstration
+test card game in python
